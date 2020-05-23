@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# axios instance
+/src/axios-orders.js
+
 # testing
 /coverage
 
